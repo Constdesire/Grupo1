@@ -1,0 +1,101 @@
+nome,Produto,Servico,quantidade,Valor_Consumo
+"Maria olivi","Agua Mineral",Lavanderia,5,130
+"Amanda Livia","Agua Mineral","Room Service",2,23
+"Gabriel Oliveira","Agua Mineral",Estacionamento,1,192
+"Marcelo Lucas","Agua Mineral",Estacionamento,5,45
+"Livia Marine","Agua Mineral",Lavanderia,5,51
+"Mariano Luz","Agua Mineral",Estacionamento,8,108
+"Amanda Livia","Agua Mineral",Estacionamento,5,95
+"Marcelo Lucas","Agua Mineral",Estacionamento,9,115
+"Amanda Livia","Agua Mineral",Lavanderia,2,123
+"Marcelo Lucas","Agua Mineral",SPA,6,8
+"Amanda Livia","Agua Mineral",Estacionamento,2,148
+"Amanda Livia","Agua Mineral",Lavanderia,7,154
+"Maria olivi","Agua Mineral",Estacionamento,1,129
+"Livia Marine","Agua Mineral",SPA,9,67
+"Mariano Luz","Agua Mineral",Wi-fi,9,4
+"Amanda Livia","Agua Mineral",Estacionamento,2,123
+"Luiz Paulo","Agua Mineral",Wi-fi,8,5
+"Maria olivi","Agua Mineral",Wi-fi,7,187
+"Livia Marine","Agua Mineral",Lavanderia,1,19
+"Livia Marine","Agua Mineral","Room Service",5,162
+"Jessica Beatriz",Cerveja,SPA,4,186
+"Luiz Paulo",Cerveja,Wi-fi,8,186
+"JoÃ£o Silva",Cerveja,SPA,5,163
+"Livia Marine",Cerveja,Wi-fi,1,118
+"Marcos Almeida",Cerveja,Lavanderia,8,105
+"Jessica Beatriz",Cerveja,"Room Service",4,136
+"Gabriel Oliveira",Cerveja,"Room Service",8,145
+"Marcelo Lucas",Cerveja,Estacionamento,1,15
+"Amanda Livia",Cerveja,"Room Service",3,157
+"Amanda Livia",Cerveja,Lavanderia,9,133
+"Marcelo Lucas",Cerveja,Wi-fi,9,108
+"Mariano Luz",Cerveja,Wi-fi,9,164
+"Amanda Livia",Cerveja,Lavanderia,10,14
+"Marcelo Lucas",Cerveja,Lavanderia,6,126
+"JoÃ£o Silva",Cerveja,Lavanderia,10,11
+"Gabriel Oliveira",Cerveja,"Room Service",2,95
+"Maria olivi",Cerveja,SPA,9,108
+"Livia Marine",Cerveja,Estacionamento,4,199
+"Livia Marine",Cerveja,SPA,9,67
+"Marcelo Lucas",Cerveja,"Room Service",6,122
+"JoÃ£o Silva",Cerveja,SPA,9,37
+"Jessica Beatriz",Cerveja,"Room Service",4,196
+"Livia Marine",Cerveja,Estacionamento,8,1
+"JoÃ£o Silva",Amendoim,SPA,3,153
+"Livia Marine",Amendoim,Estacionamento,3,86
+"Luiz Paulo",Amendoim,SPA,9,179
+"Marcos Almeida",Amendoim,Estacionamento,1,45
+"Luiz Paulo",Amendoim,SPA,8,20
+"Livia Marine",Amendoim,Wi-fi,6,193
+"Maria olivi",Amendoim,SPA,4,125
+"Luiz Paulo",Amendoim,SPA,10,73
+"Amanda Livia",Amendoim,"Room Service",8,128
+"Amanda Livia",Amendoim,SPA,1,106
+"Marcos Almeida",Amendoim,Wi-fi,3,63
+"Luiz Paulo",Amendoim,Wi-fi,10,97
+"Maria olivi",Amendoim,"Room Service",6,1
+"Gabriel Oliveira",Amendoim,"Room Service",3,108
+"Marcelo Lucas",Amendoim,Lavanderia,6,149
+"JoÃ£o Silva",Amendoim,Lavanderia,6,127
+"Marcelo Lucas",Refrigerante,Wi-fi,4,143
+"Marcos Almeida",Refrigerante,Lavanderia,10,173
+"Marcos Almeida",Refrigerante,Lavanderia,6,11
+"Maria olivi",Refrigerante,"Room Service",7,148
+"Amanda Livia",Refrigerante,Lavanderia,4,40
+"Mariano Luz",Refrigerante,Estacionamento,6,50
+"Mariano Luz",Refrigerante,Wi-fi,9,119
+"Luiz Paulo",Refrigerante,Estacionamento,2,103
+"JoÃ£o Silva",Refrigerante,Wi-fi,9,176
+"Amanda Livia",Refrigerante,Wi-fi,2,104
+"Luiz Paulo",Refrigerante,Estacionamento,3,56
+"Amanda Livia",Refrigerante,Wi-fi,1,195
+"Marcelo Lucas",Refrigerante,Lavanderia,8,48
+"Maria olivi",Refrigerante,Estacionamento,7,175
+"Livia Marine",Refrigerante,"Room Service",8,85
+"JoÃ£o Silva",Refrigerante,Wi-fi,6,14
+"Amanda Livia",Refrigerante,"Room Service",7,147
+"Maria olivi",Refrigerante,SPA,6,191
+"Marcelo Lucas",Refrigerante,Estacionamento,10,34
+"Marcos Almeida",Refrigerante,SPA,5,108
+"Gabriel Oliveira",Refrigerante,Estacionamento,2,11
+"JoÃ£o Silva",Refrigerante,Wi-fi,8,109
+"Gabriel Oliveira",Chocolate,Wi-fi,9,141
+"Maria olivi",Chocolate,Wi-fi,2,24
+"Mariano Luz",Chocolate,Wi-fi,8,85
+"Marcos Almeida",Chocolate,"Room Service",5,44
+"JoÃ£o Silva",Chocolate,SPA,10,94
+"Mariano Luz",Chocolate,SPA,9,196
+"Luiz Paulo",Chocolate,"Room Service",5,13
+"Gabriel Oliveira",Chocolate,"Room Service",7,188
+"Livia Marine",Chocolate,"Room Service",7,191
+"Amanda Livia",Chocolate,SPA,2,130
+"Luiz Paulo",Chocolate,SPA,7,34
+"Livia Marine",Chocolate,"Room Service",5,184
+"Jessica Beatriz",Chocolate,"Room Service",1,27
+"Jessica Beatriz",Chocolate,"Room Service",5,132
+"Livia Marine",Chocolate,"Room Service",10,121
+"Maria olivi",Chocolate,"Room Service",9,13
+"Luiz Paulo",Chocolate,"Room Service",5,88
+"Marcelo Lucas",Chocolate,SPA,6,38
+"Marcelo Lucas",Chocolate,SPA,6,36
